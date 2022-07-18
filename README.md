@@ -1,1 +1,1 @@
-This is a a project of a sorting visualizer in HTML, CSS and Javacript.
+This is a a project of a youtube UI clone.
